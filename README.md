@@ -28,9 +28,11 @@ Install M5Unified Add-On Library
 
 Install M5UnitSynth Add-On Library
 
-Run SynthMain.m
-
 Ensure Button.m and Button2.m (helper classes) are in the same folder as SynthMain.m
+
+Change the index of spl in line 6 of SynthMain.m to your M5's serial port
+
+Run SynthMain.m
 
 ### **_How to Use_**
 
