@@ -74,3 +74,8 @@ This triggers drum notes automatically at 55 notes per loop duration.
 ### **_Stopping the Program_**
 
 Press any of the hardware buttons M5 A, B, or C.
+
+## Project Status
+
+This project was created as part of a university assignment.
+It is feature-complete and not under active development.
